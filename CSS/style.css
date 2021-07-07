@@ -1,0 +1,21 @@
+h1{
+    color: #0000FF;
+    text-align: center;
+  }
+  h2{
+    color: #00CCFF;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  ul {
+      line-height: 40px;
+  }
+  h1{
+      color: #FF0000;
+  }
+  body{
+      background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom;
+  }
